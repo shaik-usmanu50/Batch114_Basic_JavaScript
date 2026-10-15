@@ -1,0 +1,12 @@
+
+let atmpin = 1525
+let bankname = "KOTAK"
+let isactive = true 
+let mybalance = null
+let balanceDB;
+
+console.log(atmpin)
+console.log(bankname)
+console.log(isactive)
+console.log(mybalance)
+console.log(balanceDB)
